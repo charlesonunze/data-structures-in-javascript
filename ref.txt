@@ -1,0 +1,19 @@
+Linear Data Structure
+	Every item is related to its previous and next item.
+
+	Data is arranged in linear sequence.
+
+	Data items can be traversed in a single run.
+
+	Examples: Array, Stack, Queue, Linked List.	
+
+Non-Linear Data Structure
+	Every item is attached with many other items.
+
+	Data is not arranged in sequence.
+
+	Data can not be traversed in a single run.
+
+	Examples: Tree, Graph.
+	
+	Implementation is Difficult.
